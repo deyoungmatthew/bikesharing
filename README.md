@@ -33,6 +33,4 @@ T**here is a trend that certain bike are used more often, likely at the location
 ![Bike Usage Heatmap](https://user-images.githubusercontent.com/78942457/120128605-6e9a7600-c190-11eb-8a91-6d693b4589ab.PNG)
 
 
-**[Link to Dashboard] (There is a trend that certain bike are used more often, likely at the locations that see heavy traffic during the weekday:
-
-[https://public.tableau.com/views/BikeSharing_16219008630750/Story1?:language=en-US&:display_count=n&:origin=viz_share_link}(Link to Bashboard)
+[Link to Dashboard](https://public.tableau.com/views/BikeSharing_16219008630750/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
